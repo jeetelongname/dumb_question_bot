@@ -2,6 +2,8 @@
 
 A simple bot, takes info from the web view and then gives thats to a discord bot
 to then send it to a server and channel
+Website -> server -> discord
+
 * Tasks [0/3]
 ** [ ] Build front end
 *** TODO Get View sorted
