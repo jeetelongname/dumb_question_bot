@@ -1,0 +1,15 @@
+#+TITLE: Project
+
+A simple bot, takes info from the web view and then gives thats to a discord bot
+to then send it to a server and channel
+* Tasks [0/3]
+** [ ] Build front end
+*** TODO Get View sorted
+- [ ] Style 😎
+** [ ] Get front end talking to back end
+*** [ ] Extract Question from POST request
+*** [ ] Send Question to discord bot
+** [ ] get back end talking to discord front end
+*** [ ] Get Question
+*** [ ] Ok so for some reason discordrb is not compiling
+*** [ ] make sure discord front end sends information to correct channel and stuff.
